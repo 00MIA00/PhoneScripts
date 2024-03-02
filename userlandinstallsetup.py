@@ -5,8 +5,8 @@ import time
 import os
 
 # Define the path to the adb and fastboot executables
-adb_path = r"C:\Users\Lukio-4090\OneDrive\Desktop\platform-tools\adb.exe"
-fastboot_path = r"C:\Users\Lukio-4090\OneDrive\Desktop\platform-tools\fastboot.exe"
+adb_path = r"C:\Users\jroge\OneDrive\Desktop\Android phone control\platform-tools\adb.exe"
+fastboot_path = r"C:\Users\jroge\OneDrive\Desktop\Android phone control\platform-tools\fastboot.exe"
 
 # Function to get a list of connected devices
 def get_connected_devices():
