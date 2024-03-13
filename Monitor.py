@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-adb_path = r"C:\Users\Lukio-4090\OneDrive\Desktop\platform-tools\adb.exe"
+adb_path = r"C:\Users\jroge\OneDrive\Desktop\Android phone control\platform-tools\adb.exe"
 
 def get_adb_devices():
     command = f"{adb_path} devices"
